@@ -1,1 +1,0 @@
-assert(SMODS.load_file("src/pokemon.lua"))()
