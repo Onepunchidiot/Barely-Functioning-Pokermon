@@ -1,0 +1,14 @@
+{
+    "id": "BarelyFunctioningPokermon",
+    "name": "Barely Functioning Pokermon",
+    "display_name": "BFP SOS",
+    "author": ["Onepunchidiot"],
+    "description": "Pokermon Addon, Bugs likely but hopefully not",
+    "prefix": "bfp",
+    "main_file": "main.lua",
+    "priority": 2,
+    "badge_colour": "FFD700",
+    "badge_text_colour": "FFFFFF",
+    "version": "1.0",
+    "dependencies": ["Pokermon (>=3.2.1-1027a)"]
+}
