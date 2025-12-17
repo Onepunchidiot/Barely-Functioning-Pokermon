@@ -183,7 +183,7 @@ local hisuian_decidueye = {
     name = "hisuian_decidueye",
     config = { extra = { money1 = 5, faces = 3, hand_count = 0, jack_discard, queen_discard, king_discard, hands = 1, } },
     loc_vars = function(self, info_queue, card)
-        return { vars = { card.ability.extra.dollars, card.ability.extra.faces, card.ability.extra.hands, } }
+        return { vars = { card.ability.extra.money1, card.ability.extra.faces, card.ability.extra.hands, } }
     end,
     rarity = "poke_safari",
     designer="Gem",
