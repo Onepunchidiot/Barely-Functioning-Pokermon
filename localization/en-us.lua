@@ -66,8 +66,10 @@ return {
             j_bfp_hisuian_decidueye = {
                 name = 'Hisuian Decidueye',
                 text = {
-                    "Earn {C:money}$#1#{} and different effects {C:inactive,s:0.8}(that are once-per blind)",
-                    "if 3 or more face cards are discarded at the same time",
+                    "Earn {C:money}$#1#{} and different effects",
+                    "{C:inactive,s:0.8}(that are once-per blind)",
+                    "if 3 or more face cards are",
+                    "discarded at the same time",
                     "{C:inactive,s:0.8} Jack: Gain +1 discard",
                     "{C:inactive,s:0.8} Queen: Gain +1 hand size",
                     "{C:inactive,s:0.8} King: Gain +1 Hand"

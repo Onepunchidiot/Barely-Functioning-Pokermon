@@ -1,10 +1,10 @@
 local togedemaru = {
     name = "togedemaru",
-    config = { extra = { mult = 5 } },
+    config = { extra = { mult = 9 } },
     rarity = 3,
     cost = 7,
     stage = "Basic",
-    ptype = "Lightning",
+    ptype = "Metal",
     gen = 7,
     blueprint_compat = true,
     eternal_compat = true,
